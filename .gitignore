@@ -1,5 +1,6 @@
 package-lock.json
 node_modules/
+/dist/
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij
@@ -10,6 +11,8 @@ node_modules/
 
 # User-specific stuff
 .idea/**/workspace.xml
+.idea/**/modules.xml
+.idea/**/mweb3waves.iml
 .idea/**/tasks.xml
 .idea/**/vcs.xml
 .idea/**/usage.statistics.xml
